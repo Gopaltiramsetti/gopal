@@ -8,6 +8,7 @@ public class Usecase1sbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Usecase1sbApplication.class, args);
+		System.out.println("welcome");
 	}
 
 }
